@@ -1,7 +1,7 @@
 ============================== THE NEWS/ BLOG WEBSITE SCRIPT ================================
 
-1. Download the the zip file
-2. Extract the file and copy newsportal folder
+1. Download the code
+2. Put all file on new folder : frontnews
 3. Paste inside root directory(for xampp xampp/htdocs, for wampp/www, for lamp var/www/html)
 4. Create a database with name frontpage
 5. Import frontpage.sql file(given inside the zip package in sql file folder)
